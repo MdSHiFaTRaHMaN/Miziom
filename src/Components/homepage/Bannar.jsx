@@ -25,7 +25,7 @@ const Bannar = () => {
           data-aos-delay="300"
         >
           <h1
-            className="text-2xl font-extrabold text-gray-800 lg:text-5xl"
+            className="text-3xl font-extrabold text-gray-800 lg:text-5xl"
             data-aos="zoom-in"
           >
             Welcome To Miziom
@@ -48,7 +48,7 @@ const Bannar = () => {
           <img
             src={BannarImg}
             alt="Hero Illustration"
-            className="w-[200px] md:w-[830px] lg:w-[450px] h-[200px] md:h-[300px] lg:h-[450px] animate-spin-slow"
+            className="w-[300px] md:w-[830px] lg:w-[450px] h-[300px] md:h-[300px] lg:h-[450px] animate-spin-slow"
           />
         </div>
       </div>
